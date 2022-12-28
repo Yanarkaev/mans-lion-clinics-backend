@@ -4,7 +4,7 @@
 
 ## Decription
 
-Сайт клиники с возможностью онлайн записи.[переход на frontend](https://github.com/timurKhaky/mans-lion-clinics-frontend)
+Сайт клиники с возможностью онлайн записи.[переход на frontend](https://github.com/Yanarkaev/mans-lion-clinics-frontend)
 
 ## Features
 
